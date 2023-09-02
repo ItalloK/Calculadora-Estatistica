@@ -1,3 +1,6 @@
+# meu programa de registros, by: italo gabriel - 044704
+# Deve criar um arquivo com nome " dados.txt "
+
 import numpy as np
 import tkinter as tk
 from tkinter import messagebox
